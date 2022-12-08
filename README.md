@@ -1,7 +1,8 @@
 # Polynomial Interpolation
 
-Contains implementations for the [Lagrange](https://en.wikipedia.org/wiki/Lagrange_polynomial) and [Newton](https://en.wikipedia.org/wiki/Newton_polynomial) polynomial interpolation methods. These notebooks are were used for my own learning and are not intended to be a complete reference.
+Contains implementations for the [Lagrange](https://en.wikipedia.org/wiki/Lagrange_polynomial) and [Newton](https://en.wikipedia.org/wiki/Newton_polynomial) polynomial interpolation methods.
+These notebooks are used for my own learning and are not intended to be a complete reference.
 
-- [Simple Examples](polynomial_interpolation.ipynb) completing Polynomial Interpolation for Real Numbers and Finite Fields
-- Lagrange Interpolation: [Explanation and Examples](lagrange_interpolation.ipynb)
+- [Simple Examples](polynomial_interpolation.ipynb): Polynomial interpolation over real numbers and finite fields
+- [Lagrange Interpolation](lagrange_interpolation.ipynb): Explanation and examples
 <!-- - Newton Interpolation: [Explanation and Examples](newton_interpolation.ipynb) -->
