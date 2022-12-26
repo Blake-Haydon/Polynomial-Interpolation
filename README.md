@@ -5,4 +5,4 @@ These notebooks are used for my own learning and are not intended to be a comple
 
 - [Simple Examples](polynomial_interpolation.ipynb): Polynomial interpolation over real numbers and finite fields
 - [Lagrange Interpolation](lagrange_interpolation.ipynb): Explanation and examples
-<!-- - Newton Interpolation: [Explanation and Examples](newton_interpolation.ipynb) -->
+- [Newton Interpolation](newton_interpolation.ipynb): Explanation and examples
