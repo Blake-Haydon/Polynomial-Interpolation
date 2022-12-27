@@ -5,5 +5,5 @@ These notebooks are used for my own learning and are not intended to be a comple
 
 - [Simple Examples](polynomial_interpolation.ipynb): Polynomial interpolation over real numbers and finite fields
 - [Lagrange Interpolation](lagrange_interpolation.ipynb): Explanation and examples
-- [Precomputed Inverse Vandermonde Matrix](precomputed_V_inv.ipynb): By fixing input values we can precompute $V(x)^{-1}$ to speed up arbitrary interpolation.
+- [Precomputed Inverse Vandermonde Matrix](precomputed_V_inv.ipynb): By fixing input values we can precompute $V(\bf{x})^{-1}$ to speed up arbitrary interpolation.
 <!-- - Newton Interpolation: [Explanation and Examples](newton_interpolation.ipynb) -->
