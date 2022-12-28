@@ -8,4 +8,5 @@ These notebooks are used for my own learning and are not intended to be a comple
 - [Matrix Interpolation](matrix_interpolation.ipynb): Polynomial interpolation over finite fields using matrices
 - [Precomputed Inverse Vandermonde Matrix](precomputed_V_inv.ipynb): By fixing input values we can precompute $V(\bf{x})^{-1}$ to speed up interpolation
 - [Incremental Interpolation](incremental_interpolation.ipynb): Incremental interpolation over finite fields
-<!-- - Newton Interpolation: [Explanation and Examples](newton_interpolation.ipynb) -->
+  <!-- TODO: Newton Interpolation: [Explanation and Examples](newton_interpolation.ipynb) -->
+  <!-- TODO: Neville's algorithm: https://en.wikipedia.org/wiki/Neville%27s_algorithm -->
