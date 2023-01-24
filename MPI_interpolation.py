@@ -2,10 +2,9 @@ import galois
 import numpy as np
 from mpi4py import MPI
 
-######################## HOW TO RUN #########################
-# Run with 4 processors:                                    #
-# `mpiexec -n 4 python -m mpi4py MPI_interpolation.py`      #
-#############################################################
+# !!!!!!! INSTRUCTIONS TO RUN THIS CODE !!!!!!!
+# To run with 4 processors:
+# `mpiexec -n 4 python -m mpi4py MPI_interpolation.py`
 
 
 def eval_poly(poly: galois.Poly, x: int):
